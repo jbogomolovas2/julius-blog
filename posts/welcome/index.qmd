@@ -1,0 +1,15 @@
+---
+title: "Welcome To My Blog"
+author: "Julius Bogomolovas"
+date: "2025-06-20"
+image: "thumbnail.jpg"
+categories: [news]
+---
+
+Hello and welcome! I’m **Julijus  Bogomolovas**, a molecular cardiology researcher at UC San Diego who spends most days studying molecular signaling that keeps our hearts beating — but I unwind by pointing those same analytical instincts at whatever catches my curiosity, from swimming training to cherry blossom prediction.
+
+ Think of this space as my digital lab notebook crossed with a Sunday afternoon hobby shed: you’ll find expanded write-ups of data analysis from my professional work, side quests where I teach myself new statistical tricks, and plenty of “vanity” explorations that look fun. 
+
+I’m self‑taught in much of the data‑science tooling you’ll see here, so expect the occasional misstep, frank reflections on what I learned, and code and data you’re free to borrow or improve.
+
+ If you’re into biostatistics, all things cardiac, R notebooks that actually run, or enjoy watching a scientist learn in public, pull up a chair and join the conversation.
