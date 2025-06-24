@@ -137,6 +137,13 @@ final_tbl <- laps_with_sets %>%
 write.csv(final_tbl, "all_swim_laps.csv", row.names = FALSE)
 ```
 
+You can load it directly in `R`:
+
+```{r}
+#| eval: false
+final_tbl <- read.csv("https://jbogomolovas2.github.io/julius-blog/posts/post-with-code/all_swim_laps.csv")
+```
+
 ```{r}
 #| message: false
 #| warning: false
@@ -153,7 +160,7 @@ library(performance)
 library(lubridate)
 
 # Load pre-processed data
-final_tbl <- read.csv("/Users/jb/Documents/BW_analysis/Swim_analysis/all_swim_laps.csv")
+final_tbl <- read.csv("all_swim_laps.csv")
 
 # Convert date column back to Date type
 final_tbl$session_date <- as.Date(final_tbl$session_date)
