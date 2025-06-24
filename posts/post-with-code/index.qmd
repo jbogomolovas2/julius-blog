@@ -2,7 +2,8 @@
 title: "Swimming speed Analysis With Generalized Additive Models"
 author: "Julius Bogomolovas"
 date: "2025-06-23"
-categories: [news, code, analysis]
+categories: [R, GAM, Sports Analytics, Data Visualization]
+tags: [rstats, mgcv, swimming, Garmin, data-science]
 image: "image.jpg"
 bibliography: references.bib
 ---

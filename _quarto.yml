@@ -3,13 +3,21 @@ project:
 
 website:
   title: "Julius's Blog"
+  description: "Data Science, Swimming Analytics, and R Programming"
+  site-url: https://jbogomolovas2.github.io/julius-blog/
+  
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/jbogomolovas2
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/JuliusBogo2
+        icon: linkedin
+        href: https://www.linkedin.com/in/julius-bogomolovas-93222a19/
+      - icon: rss
+        href: index.xml
+
 format:
   html:
     theme:
@@ -18,4 +26,3 @@ format:
     css: styles.css
 
 editor: visual
-
